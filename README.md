@@ -1,5 +1,5 @@
 
-# 📘 Day 5 - RAG-based LLM with LangChain and Gradio
+# 📘 RAG-based LLM with LangChain and Gradio
 
 This notebook builds a simple conversational RAG (Retrieval-Augmented Generation) application using LangChain and Gradio. It processes local documents, indexes them using ChromaDB, and enables user interaction via a chat interface powered by OpenAI models.
 
